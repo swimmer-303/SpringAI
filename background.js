@@ -1,3 +1,13 @@
+////////////WARNING!!!////////////
+//This project might not work,  //
+//because when I made it, I used//
+//My own api keys, and do not   //
+//Want to share them.           //
+//If it does not work, please refer to the video demo
+//I also removed some of the stuff like location, api key, project ids, etc.
+
+
+
 // Function to detect if a page is an article
 async function isArticle(tabId) {
     try {
