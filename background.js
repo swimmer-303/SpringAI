@@ -5,6 +5,7 @@
 //Want to share them.           //
 //If it does not work, please refer to the video demo
 //I also removed some of the stuff like location, api key, project ids, animations, etc. Those are available for you to see in the video demo.
+//The one in the video demo is a completely different chrome extension, but goes under the same code as this one, plus my api keys, animations, and just ui tweaks. Thanks Google Cloud!
 
 
 
