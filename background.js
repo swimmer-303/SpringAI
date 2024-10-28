@@ -4,7 +4,7 @@
 //My own api keys, and do not   //
 //Want to share them.           //
 //If it does not work, please refer to the video demo
-//I also removed some of the stuff like location, api key, project ids, etc.
+//I also removed some of the stuff like location, api key, project ids, animations, etc. Those are available for you to see in the video demo.
 
 
 
